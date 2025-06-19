@@ -52,4 +52,4 @@ I programmed the embedded software for the NIOS II-based system using:
 ---
 
 ## 📝 License  
-This repository is intended for educational and personal learning use. 
+This repository is intended for personal learning use. 
